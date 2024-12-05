@@ -1,0 +1,30 @@
+[33mcommit 97aee514a4fdfbcc133dde4e36a8ab452caddf71[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: acaedaa 7269a5e
+Author: Sergey <bychkov@adam.edu.kg>
+Date:   Thu Dec 5 15:42:45 2024 +0600
+
+    Объединение историй и разрешение конфликтов
+
+[33mcommit acaedaa3460df28519f7b3ef07c02259423a6f8b[m
+Author: Sergey <bychkov@adam.edu.kg>
+Date:   Thu Dec 5 15:36:30 2024 +0600
+
+    Добавлены изменения с сервера
+
+[33mcommit 7269a5e5c071b045815bff790665f67cf40da6ef[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Sergey31415 <48427193+Sergey31415@users.noreply.github.com>
+Date:   Thu Dec 5 15:31:26 2024 +0600
+
+    Update manage.py
+
+[33mcommit 476c5a4ad276573d6960425b1a0a76b5f8f21378[m
+Author: Sergey <bychkov@adam.edu.kg>
+Date:   Thu Dec 5 15:30:07 2024 +0600
+
+    first commit
+
+[33mcommit 0d95c93459c1766ef8ac800ea29f3c96d1aa19b6[m
+Author: Sergey <bychkov@adam.edu.kg>
+Date:   Thu Dec 5 15:29:51 2024 +0600
+
+    first commit
